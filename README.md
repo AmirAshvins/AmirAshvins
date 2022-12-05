@@ -7,12 +7,12 @@
 ## 💫 About Me:
 - 😄 Pronouns: He/Him
 - 😍 I love building and creating systems
-- ✨ I love being in a team and solve real world problems
+- ✨ I enjoy being in a team and solve real world problems
 - 💻 I strive to learn and improve my knowledge every day
 - 🔭 I’m currently working on exiting projects in Bizkey Tech Inc.
-- 🌱 I’m currently learning vue.js and extending my typescript knowledge
+- 🌱 I’m learning vue.js and extending my typescript knowledge
 - 👯 I’m looking to collaborate on visually stunning and challenging UIs
-- 💬 Ask me about React and JS
+- 💬 Ask me anything about React and Typescript
 - 📫 You can reach me via the provided social links
 - ⚡ Fun fact: I am a professional cook working in Cactus Club Cafe
 
