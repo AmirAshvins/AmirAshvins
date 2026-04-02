@@ -13,13 +13,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAshvins&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy-orcin-eta.vercel.app/?username=AmirAshvins&theme=vue-dark&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy-orcin-eta.vercel.app/?username=AmirAshvins&theme=darkhub&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
 ### ✍️ Random Dev Quote
-![](https://github-profile-trophy-orcin-eta.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-profile-trophy-orcin-eta.vercel.app/api?username=AmirAshvins&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=AmirAshvins&limit=5&theme=darkhub&no-frame=true&no-bg=true&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AmirAshvins&icon=0&color=5)](https://visitcount.itsvg.in)
