@@ -16,8 +16,13 @@ jobs:
 
       - name: Update README
         run: |
-          # Updates the 'Last Updated' line in README.md
-          sed -i "s/^Last Updated: .*/Last Updated: $(date -u)/" README.md || echo "Last Updated: $(date -u)" >> README.md
+          TS="$(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          if grep -q '^Last Updated:' README.md; then
+            sed -i "s/^Last Updated:.*/Last Updated: ${TS}/" README.md
+          else
+            echo "" >> README.md
+            echo "Last Updated: ${TS}" >> README.md
+          fi
 
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
