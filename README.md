@@ -8,7 +8,7 @@
 
 🤖 Delegate mechanical implementation to AI, keep architecture, code review, and quality bar as my own call — trust it more or less depending on what's actually at stake in the task, not by default
 
-🤖 Dev Consultant for a development & trade group — full-stack work and internal AI tooling
+🤖 Dev Consultant @ Fardad Mana Development & Trade Group — full-stack work and internal AI tooling
 
 📱 Published apps on the App Store & Google Play — barcode scanners, e-commerce, HR tools, you name it
 
